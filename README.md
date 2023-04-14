@@ -11,12 +11,16 @@ stateDiagram-v2
     state if_registro <<choice>>
 
     [*] --> WebSocket
-    WebSocket --> Registro: registro
+    
+    WebSocket --> Registro: "registro"
     
     Registro --> if_registro
-    if_registro --> Registrado: ok
-    if_registro --> Não_registrado: nok
+    if_registro --> Registrado: "registro-ok"
+    if_registro --> Não_registrado: "registro-nok"
     
-    Registrado --> [*]
     Não_registrado --> [*]
+
+    Registrado --> Entrar_na_sala: "entrar-na-sala"
+    Entrar_na_sala --> Na_sala_de_partida: "jogadores"
+    Na_sala_de_partida --> [*]
 ```
