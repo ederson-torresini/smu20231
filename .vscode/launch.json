@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Servidor",
+      "cwd": "${workspaceFolder}/adcipt20231",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "servidor.js"
+    }
+  ]
+}
