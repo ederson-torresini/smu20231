@@ -4,7 +4,7 @@ Projeto aos moldes do [semestre 2011.1](https://github.com/boidacarapreta/smu202
 
 ## Máquinas de estado
 
-Registro:
+Registro e entrada na sala de partida:
 
 ```mermaid
 stateDiagram-v2
