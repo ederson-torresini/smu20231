@@ -24,3 +24,7 @@ stateDiagram-v2
     Entrar_na_sala --> Na_sala_de_partida: "jogadores"
     Na_sala_de_partida --> [*]
 ```
+
+## Repositórios dos alunos
+
+- [Alana](https://github.com/alanamandim/smu20231)
