@@ -28,3 +28,4 @@ stateDiagram-v2
 ## Repositórios dos alunos
 
 - [Alana](https://github.com/alanamandim/smu20231)
+- [Filipi](https://github.com/VirgilioFilipi/SMU2023.1) ([projeto](https://github.com/users/VirgilioFilipi/projects/2))
