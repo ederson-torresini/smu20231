@@ -11,13 +11,13 @@ stateDiagram-v2
     state if_registro <<choice>>
 
     [*] --> WebSocket
-    
+
     WebSocket --> Registro: "registro"
-    
+
     Registro --> if_registro
     if_registro --> Registrado: "registro-ok"
     if_registro --> Não_registrado: "registro-nok"
-    
+
     Não_registrado --> [*]
 
     Registrado --> Entrar_na_sala: "entrar-na-sala"
@@ -27,5 +27,7 @@ stateDiagram-v2
 
 ## Repositórios dos alunos
 
-- [Alana](https://github.com/alanamandim/smu20231)
-- [Filipi](https://github.com/VirgilioFilipi/SMU2023.1) ([projeto](https://github.com/users/VirgilioFilipi/projects/2))
+| Aluno                                                 | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 | Entrega 7 | Entrega 8 |
+| ----------------------------------------------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| [Alana](https://github.com/alanamandim/smu20231)      | 6         | 6         | 6         | 6         |           |           |           |           |
+| [Filipi](https://github.com/VirgilioFilipi/SMU2023.1) | 6         | 6         | 6         | 0         |           |           |           |           |
