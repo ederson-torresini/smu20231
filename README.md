@@ -27,7 +27,9 @@ stateDiagram-v2
 
 ## Repositórios dos alunos
 
-| Aluno                                                 | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 | Entrega 7 | Entrega 8 |
-| ----------------------------------------------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| [Alana](https://github.com/alanamandim/smu20231)      | 6         | 6         | 6         | 6         |           |           |           |           |
-| [Filipi](https://github.com/VirgilioFilipi/SMU2023.1) | 6         | 6         | 6         | 0         |           |           |           |           |
+| Aluno                                                  | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 | Entrega 7 | Entrega 8 |
+| ------------------------------------------------------ | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| [Alana](https://github.com/alanamandim/smu20231)       | 6         | 6         | 6         | 6         |           |           |           |           |
+| [Bruno](https://github.com/Brun0MN/smu20231)           |           |           |           |           |           |           |           |           |
+| [Deivid](https://github.com/deividffrederico/smu20231) |           |           |           |           |           |           |           |           |
+| [Filipi](https://github.com/VirgilioFilipi/SMU2023.1)  | 6         | 6         | 6         | 0         |           |           |           |           |
